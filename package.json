@@ -1,0 +1,12 @@
+{
+  "name": "express-first_step",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SzymonJak/Express-first_step.git",
+  "author": "Szymon Jakubiak <jakubiak.sz@gmail.com>",
+  "license": "MIT",
+
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
