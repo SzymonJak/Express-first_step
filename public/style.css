@@ -2,3 +2,13 @@ h1 {
     font-weight: lighter;
     font-style: italic;
 }
+
+.dark {
+    background-color: blue;
+    color: whitesmoke;
+}
+
+.dark a {
+    text-decoration: none;
+    color: yellow;
+}

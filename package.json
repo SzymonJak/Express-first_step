@@ -5,8 +5,8 @@
   "repository": "git@github.com:SzymonJak/Express-first_step.git",
   "author": "Szymon Jakubiak <jakubiak.sz@gmail.com>",
   "license": "MIT",
-
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.17.1",
+    "express-handlebars": "3.1.0"
   }
 }
